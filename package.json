@@ -1,12 +1,22 @@
 {
-  "name": "@tommycontreras11/simple-npm-package",
+  "name": "@tommycontreras/simple-npm-package",
   "version": "1.0.0",
-  "description": "",
+  "description": "A super simple npm package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "npm",
+    "package",
+    "simple",
+    "node.js",
+    "javascript"
+  ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommycontreras11/simple-npm-package.git"
+  }
 }
