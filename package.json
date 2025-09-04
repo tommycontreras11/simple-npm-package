@@ -1,6 +1,6 @@
 {
   "name": "@tommycontreras11/simple-npm-package",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "A super simple npm package",
   "main": "index.js",
   "scripts": {
