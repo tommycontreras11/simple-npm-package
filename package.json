@@ -1,5 +1,5 @@
 {
-  "name": "@tommycontreras/simple-npm-package",
+  "name": "@tommycontreras11/simple-npm-package",
   "version": "1.0.2",
   "description": "A super simple npm package",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "node.js",
     "javascript"
   ],
-  "author": "",
+  "author": "Tommy Grullón Contreras",
   "license": "ISC",
   "repository": {
     "type": "git",
